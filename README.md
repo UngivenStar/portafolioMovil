@@ -17,14 +17,16 @@
 <div align="center">
   El objetivo principal es servir como material de aprendizaje para comprender cómo aplicar Dart.
 </div>
+
 ## --------------------------------------------------------------------------------------
+
 <h2>
 	<img src="https://i.pinimg.com/originals/99/f0/e0/99f0e02f90185be9fbfb46e62ddfa9f3.gif" width="5%">
 	Estudiante
 </h2>
--**|| Sandra Carolina Perales Rodriguez ||**
--**|| Desarrollo de Aplicaciones Móviles ||**
-- **|| ITIID-4 ||**
+- || Sandra Carolina Perales Rodriguez ||
+ - || Desarrollo de Aplicaciones Móviles ||
+ -  || ITIID-4 || -
 <h2>
 	<img src="https://i.pinimg.com/originals/e4/96/0c/e4960c1d084132279f17ca869846c00c.gif" width="4%">
 	Códigos de la unidad
@@ -125,6 +127,8 @@ Luego, ambos valores (a y b) se suman y se almacenan en la variable n. Finalment
 
 
 Este programa en Dart solicita al usuario que ingrese su nombre, apellido y segundo nombre, y luego imprime el nombre completo en la consola. Se importa la librería dart:io para poder usar stdout.write() y stdin.readLineSync(), que permiten mostrar mensajes y leer entradas desde la consola.
+
+
 [Archivo](https://github.com/UngivenStar/portafolioMovil/blob/main/10_concat.dart)
 
 </details>
